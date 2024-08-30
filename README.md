@@ -1,6 +1,6 @@
 
 # 👋 Hi there! I'm Ornella Gigante
-**Digital Innovator (Developer/AI Enthusiast/Creator)**
+    **Digital Innovator (Developer/AI Enthusiast/Creator)**
 
 💻 Passionate Computer Science student in my second year, specializing in DAM, DAW, with a master’s degree in AI Resolutions 🤖.
     
@@ -24,7 +24,6 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -38,15 +37,25 @@
 <br />
 
 
+---
 
-### 📊 My Stats
+### 📊 My Stats, Commits, More used languages and Tools 
 
-![Nella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ornella-gigante_icons=true&theme=gruvbox)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ornella-Gigante&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ornella-Gigante&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ornella-Gigante&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ornella-Gigante&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ornella-Gigante&theme=2077&utcOffset=8)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
-### 📬 Let's Connect!:
+---
 
-[e-mail]: ornella-gigante@hotmail.com.ar
-[Linkedin]: https://www.linkedin.com/in/ornella-gigante/
+### 📬 Let's Connect!:
+    
+    [e-mail](mailto:ornella-gigante@hotmail.com.ar)
+    [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
+
