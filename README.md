@@ -1,5 +1,15 @@
 
-# 👋 Hi there! I'm Ornella Gigante
+<!-- markdownlint-disable MD033 MD041 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HELLO+WORLD!+🌍;Welcome+to+my+profile!+👋;Check+out+my+projects+🔍;Feel+free+to+connect!+🤝&font=Fira%20Code&center=true&width=380&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+
+<!-- markdownlint-enable MD033 -->
+
+
+# 👋 I'm Ornella Gigante (Nella)
     **Digital Innovator (Developer/AI Enthusiast/Creator)**
 
 💻 Passionate Computer Science student in my second year, specializing in DAM, DAW, with a master’s degree in AI Resolutions 🤖.
@@ -20,6 +30,7 @@
 ---
 
 ### 🧰 Languages and Tools
+
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
