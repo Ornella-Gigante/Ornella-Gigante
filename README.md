@@ -75,14 +75,30 @@
 
 <!--![snake gif](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.gif)--> 
 
-<picture>
-  <!-- Imagen para el modo oscuro -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake-dark.svg">
-  
-  <!-- Imagen para el modo claro -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
-  
-  <!-- Imagen por defecto (si no se puede detectar el modo de color) -->
-  <img alt="github contribution grid snake animation" src="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
-</picture>
+
+<style>
+  /* Estilo para el modo oscuro */
+  @media (prefers-color-scheme: dark) {
+    .snake-image {
+      content: url('https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake-dark.svg');
+    }
+  }
+
+  /* Estilo para el modo claro */
+  @media (prefers-color-scheme: light) {
+    .snake-image {
+      content: url('https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg');
+    }
+  }
+</style>
+
+<img class="snake-image" alt="GitHub contribution grid snake animation" src="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
+
+
+
+
+### Gráfico de Contribuciones en GitHub
+
+- **Modo Claro:** [Ver imagen en modo claro](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg)
+- **Modo Oscuro:** [Ver imagen en modo oscuro](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake-dark.svg)
 
