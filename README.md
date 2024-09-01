@@ -73,4 +73,16 @@
 
 ### 🗂️ Contributions:
 
-![snake gif](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.gif)--> 
+
+<picture>
+  <!-- Imagen para el modo oscuro -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake-dark.svg">
+  
+  <!-- Imagen para el modo claro -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
+  
+  <!-- Imagen por defecto (si no se puede detectar el modo de color) -->
+  <img alt="github contribution grid snake animation" src="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
