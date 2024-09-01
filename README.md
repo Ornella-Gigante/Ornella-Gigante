@@ -76,21 +76,7 @@
 <!--![snake gif](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.gif)--> 
 
 
-<style>
-  /* Estilo para el modo oscuro */
-  @media (prefers-color-scheme: dark) {
-    .snake-image {
-      content: url('https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake-dark.svg');
-    }
-  }
 
-  /* Estilo para el modo claro */
-  @media (prefers-color-scheme: light) {
-    .snake-image {
-      content: url('https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg');
-    }
-  }
-</style>
 
 <img class="snake-image" alt="GitHub contribution grid snake animation" src="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
 
