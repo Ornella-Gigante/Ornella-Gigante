@@ -97,8 +97,4 @@
 
 
 
-### Gráfico de Contribuciones en GitHub
-
-- **Modo Claro:** [Ver imagen en modo claro](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg)
-- **Modo Oscuro:** [Ver imagen en modo oscuro](https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake-dark.svg)
 
