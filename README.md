@@ -54,9 +54,7 @@
             </a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.pgadmin.org/static/img/pgadmin_logo.png" width="50" height="50"/>
-            </a>
+            <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/></a>
         </td>
         <td align="center" width="96">
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -100,8 +98,19 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="50" height="50"/>
             </a>
         </td>
+          <td align="center" width="96">
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/></a>
+        </td>
+      <td align="center" width="96">
+            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/></a>
+        </td>
+      <td align="center" width="96">
+            <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a>
+        </td>
     </tr>
 </table>
+
+
 
 
 
