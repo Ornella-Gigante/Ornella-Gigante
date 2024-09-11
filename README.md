@@ -111,6 +111,11 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/>
             </a>
         </td>
+        <td align="center" width="96">
+            <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+            </a>
+        </td>
     </tr>
 </table>
 
