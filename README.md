@@ -29,9 +29,8 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 🖥 ➕ 🧰 Frameworks, Languages and Tools
 
-<h4 align="left">🖥 Frameworks, Languages and Tools:</h4>
 
 <br/>
 
@@ -139,10 +138,12 @@
 
 ---
 
+
 ### 📬 Let's Connect!:
     
     [e-mail](mailto:ornella-gigante@hotmail.com.ar)
     [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
+
 
 
 ### 🗂️ Contributions:
