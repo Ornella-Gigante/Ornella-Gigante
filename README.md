@@ -32,70 +32,77 @@
 ### 🧰 Languages and Tools
 
 
-<h4 align="left">🖥 Frameworks, Languages, and Tools:</h4>
+<h4 align="left">🖥 Frameworks, Languages and Tools:</h4>
 
 <br/>
 
 <table align="center"> 
     <tr>
         <td align="center" width="96">
-            <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50"/></a>
+            <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="50" height="50"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/></a>
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50"/></a>
+            <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.pgadmin.org/static/img/pgadmin_logo.png" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50"/></a>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="color: white" width="50" height="50"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+            </a>
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></a>
+            <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
+            <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/></a>
+            <a href="https://www.atlassian.com/jira" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" height="50"/></a>
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/></a>
+            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="color: white" width="50" height="50"/></a>
+            <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="50" height="50"/>
+            </a>
         </td>
     </tr>
-    <!-- Rest of the table rows -->
 </table>
 
-<br/>
-
-<h4 align="left">🧰 Additional Tools:</h4>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 
 ---
