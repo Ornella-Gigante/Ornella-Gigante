@@ -31,12 +31,11 @@
 
 ### 🧰 Languages and Tools
 
-
 <h4 align="left">🖥 Frameworks, Languages and Tools:</h4>
 
 <br/>
 
-<table align="center"> 
+<table align="center" cellpadding="10"> 
     <tr>
         <td align="center" width="96">
             <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
@@ -54,20 +53,22 @@
             </a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/></a>
+            <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+            </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
@@ -88,6 +89,8 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/>
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
@@ -98,18 +101,18 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="50" height="50"/>
             </a>
         </td>
-          <td align="center" width="96">
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/></a>
+        <td align="center" width="96">
+            <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+            </a>
         </td>
-      <td align="center" width="96">
-            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/></a>
-        </td>
-      <td align="center" width="96">
-            <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a>
+        <td align="center" width="96">
+            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/>
+            </a>
         </td>
     </tr>
 </table>
-
 
 
 
