@@ -130,8 +130,8 @@
             </a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+            <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50"/>
             </a>
         </td>
         <td align="center" width="96">
