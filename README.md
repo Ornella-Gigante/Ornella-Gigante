@@ -157,11 +157,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ornella-Gigante&theme=2077&utcOffset=8" />
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ornella-Gigante&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ornella-Gigante&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ornella-Gigante&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ornella-Gigante&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ornella-Gigante&theme=2077&utcOffset=8)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
