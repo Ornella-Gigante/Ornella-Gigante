@@ -127,6 +127,92 @@
     </tr>
 </table>
 
+
+<br/>
+
+<table align="center" cellpadding="10"> 
+    <tr>
+        <td align="center" width="96">
+            <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.atlassian.com/jira" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+            </a>
+        </td>
+    </tr>
+</table>
 ---
 
 ### 📊 My Stats, Commits, More used languages and Tools 
