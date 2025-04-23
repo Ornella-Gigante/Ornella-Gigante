@@ -1,9 +1,8 @@
 
 <!-- markdownlint-disable MD033 MD041 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HELLO+WORLD!+🌍;Welcome+to+my+profile!+👋;Check+out+my+projects+🔍;Feel+free+to+connect!+🤝&font=Fira%20Code&center=true&width=600&height=100&duration=4000&pause=1000" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+WORLD!+🌍;Welcome+to+my+profile!+👋;Check+out+my+projects+🔍;Feel+free+to+connect!+🤝&font=Fira%20Code&center=true&width=600&height=100&duration=4000&pause=1000)
+
 
 
 
