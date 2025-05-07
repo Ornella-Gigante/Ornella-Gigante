@@ -177,5 +177,12 @@
 
 
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd6am8wcGJrY3Rkd2d4NDk1bTd5ZDN4eXBwanJpNGV5ZGJ3bXlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Robot waving tech GIF" width="220"/>
+</p>
+
+
+
+
 
 
