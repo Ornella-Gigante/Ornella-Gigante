@@ -164,15 +164,19 @@
 
 ### 📬 Let's Connect!:
 
-
-
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd6am8wcGJrY3Rkd2d4NDk1bTd5ZDN4eXBwanJpNGV5ZGJ3bXlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Robot waving tech GIF" width="800"/>
 </p>
 
-    
-    [e-mail](mailto:ornella-gigante@hotmail.com.ar)
-    [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
+<p align="center">
+  <a href="mailto:ornella-gigante@hotmail.com.ar">
+    <img src="https://img.shields.io/badge/Email-ornella--gigante%40hotmail.com.ar-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ornella-gigante/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ornella%20Gigante-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 
 
