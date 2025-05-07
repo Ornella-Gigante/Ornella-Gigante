@@ -165,6 +165,13 @@
 
 
 ### 📬 Let's Connect!:
+
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd6am8wcGJrY3Rkd2d4NDk1bTd5ZDN4eXBwanJpNGV5ZGJ3bXlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Robot waving tech GIF" width="800"/>
+</p>
+
     
     [e-mail](mailto:ornella-gigante@hotmail.com.ar)
     [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
@@ -175,11 +182,6 @@
 
 <img class="snake-image" alt="GitHub contribution grid snake animation" src="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
 
-
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd6am8wcGJrY3Rkd2d4NDk1bTd5ZDN4eXBwanJpNGV5ZGJ3bXlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Robot waving tech GIF" width="220"/>
-</p>
 
 
 
