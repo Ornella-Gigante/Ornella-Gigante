@@ -23,6 +23,13 @@
     I'm optimistic, committed, and always eager to learn.
     Ready to tackle new challenges and contribute with a positive attitude.
 
+--- 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ornella-gigante/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20My%20Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 
 ---
