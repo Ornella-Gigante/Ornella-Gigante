@@ -13,14 +13,14 @@
 
 🧠 I'm building **MindyCore** — technology designed for neurodivergent minds. We create AI and games that adapt to how people actually think, instead of forcing everyone into the same mold.
 
-- 🤖 **MindyMinds** — our AI lab, home of NeuroMindy, an assistant for neurodivergent people
-- 📱 **MindyPlay** — our games lab, building playful experiences for iOS & Android
+- 🤖 **MindyMinds**: our AI lab, home of NeuroMindy, an assistant for neurodivergent people
+- 📱 **MindyPlay**: our games lab, building playful experiences for iOS & Android
 
 ## 💻 What I work with
 Java ☕ · Python 🐍 · SQL 🗄️ · web development & AI applications
 
 ## 🎓 Background
-Computer Science student (DAM / DAW) with a master's focused on applied AI. Building a company while I study — turning what I learn straight into real products.
+Computer Science student (DAM / DAW) with a master's focused on applied AI. Building a company while I study, turning what I learn straight into real products.
 
 ## 🎯 What drives me
 Making technology that genuinely fits the people it's for — especially the minds that are too often left out. I care about accessibility, inclusive design, and building things that make someone's day a little easier.
