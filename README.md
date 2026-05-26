@@ -11,7 +11,7 @@
 
 **Founder & CEO of MindyCore · Developer · AI builder**
 
-🧠 I'm building **MindyCore** — technology designed for neurodivergent minds. We create AI and games that adapt to how people actually think, instead of forcing everyone into the same mold.
+🧠 I'm building **MindyCore**: a  technology company designed for neurodivergent minds. We create AI and games that adapt to how people actually think, instead of forcing everyone into the same mold.
 
 - 🤖 **MindyMinds**: our AI lab, home of NeuroMindy, an assistant for neurodivergent people
 - 📱 **MindyPlay**: our games lab, building playful experiences for iOS & Android
