@@ -7,21 +7,26 @@
 <!-- markdownlint-enable MD033 -->
 
 
-# 👋 I'm Ornella Gigante (Nella)
-    **Digital Innovator (Developer/AI Enthusiast/Creator)**
+# 👋 Hi, I'm Ornella Gigante (Nella)
 
-💻 Passionate Computer Science student in my second year, specializing in DAM, DAW, with a master’s degree in AI Resolutions 🤖.
-    
-🚀 Experience
-    Programming and web design using Java ♨️, Python 🐍, and SQL 🗄️.
-    Enthusiastic about technological innovation and developing AI applications.
-    
-🎯 My Goal:
-    To make the world a better place through technological innovations that solve real-world problems and drive positive change.
-    
-🌟 Why Connect with Me?:
-    I'm optimistic, committed, and always eager to learn.
-    Ready to tackle new challenges and contribute with a positive attitude.
+**Founder & CEO of MindyCore · Developer · AI builder**
+
+🧠 I'm building **MindyCore** — technology designed for neurodivergent minds. We create AI and games that adapt to how people actually think, instead of forcing everyone into the same mold.
+
+- 🤖 **MindyMinds** — our AI lab, home of NeuroMindy, an assistant for neurodivergent people
+- 📱 **MindyPlay** — our games lab, building playful experiences for iOS & Android
+
+## 💻 What I work with
+Java ☕ · Python 🐍 · SQL 🗄️ · web development & AI applications
+
+## 🎓 Background
+Computer Science student (DAM / DAW) with a master's focused on applied AI. Building a company while I study — turning what I learn straight into real products.
+
+## 🎯 What drives me
+Making technology that genuinely fits the people it's for — especially the minds that are too often left out. I care about accessibility, inclusive design, and building things that make someone's day a little easier.
+
+## 🌱 Let's connect
+Always learning, always listening. Open to collaborating with people who care about building tech with purpose.
 
 --- 
 
